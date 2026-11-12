@@ -1,0 +1,4 @@
+*.efi
+esp/
+*.lst
+*.map
